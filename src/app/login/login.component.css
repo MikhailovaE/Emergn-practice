@@ -1,0 +1,9 @@
+.login-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-form > table, .register-form > table, .mat-form-field {
+  width: 100%;
+}

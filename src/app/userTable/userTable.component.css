@@ -1,0 +1,9 @@
+.table-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mat-table {
+    min-width: 50rem;
+}
